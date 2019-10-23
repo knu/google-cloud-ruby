@@ -1,5 +1,15 @@
 # Release History
 
+### 0.35.0 / 2019-10-23
+
+#### Features
+
+* Update Ruby dependency to minimum of 2.4 ([#4206](https://www.github.com/googleapis/google-cloud-ruby/issues/4206))
+
+#### Performance Improvements
+
+* Update lower-level client network configuration
+
 ### 0.34.0 / 2019-08-23
 
 #### Features
